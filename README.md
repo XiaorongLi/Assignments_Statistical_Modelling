@@ -1,1 +1,1 @@
-# Machine_Learning_Stanford
+# Machine_Learning_Course_Stanford
