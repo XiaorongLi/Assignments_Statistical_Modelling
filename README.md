@@ -1,1 +1,1 @@
-# Assignments_Statistical_Modelling
+# Machine_Learning_Stanford
